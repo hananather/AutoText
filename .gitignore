@@ -120,3 +120,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+eval_business_names.csv
+models/
+train_business_names.csv
